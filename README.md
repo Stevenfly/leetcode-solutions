@@ -1,2 +1,4 @@
 # LeetCode Solutions
-> Coder: Yufei Yang
+
+[Superdonut](https://leetcode.com/stevenfly/)
+
