@@ -17,6 +17,7 @@ Updated 2018-07-09
 | 7   | Reverse Integer                                 | 69.87%     |
 | 8   | String to Integer (atoi)                        | 14.56%     |
 | 9   | Palindrome Number                               | 75.65%     |
+| 10  | Regular Expression Matching                     | 100.00%    |
 | 11  | Container With Most Water                       | 97.49%     |
 | 12  | Integer to Roman                                | 98.22%     |
 | 13  | Roman to Integer                                | 66.42%     |
