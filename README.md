@@ -1,3 +1,3 @@
 # LeetCode Solutions
 
-[Superdonut](https://leetcode.com/stevenfly/)
+By [Superdonut](https://leetcode.com/stevenfly/)
